@@ -18,7 +18,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Termos de Uso - Bóris",
-  description: "Termos de Uso do Bóris - Condições para utilização da plataforma.",
+  description:
+    "Termos de Uso do Bóris. Condições claras para uso da automação WhatsApp. Planos, cancelamento livre e direitos do usuário. Leia antes de usar.",
   robots: {
     index: true,
     follow: true,

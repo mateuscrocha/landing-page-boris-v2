@@ -18,7 +18,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Bóris Grátis – Métricas instantâneas para grupos de WhatsApp",
-  description: "Veja quem participa, quando postar e o volume diário, sem pagar nada.",
+  description:
+    "Bóris Grátis: métricas essenciais para grupos WhatsApp. Dashboard simplificado, sem custo. Veja engajamento, horários de pico e membros ativos. Teste agora!",
   keywords: "whatsapp grátis, métricas whatsapp, dashboard gratuito, grupos whatsapp, análise gratuita",
   authors: [{ name: "Bóris", url: "https://euboris.com.br" }],
   creator: "Bóris",

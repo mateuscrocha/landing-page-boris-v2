@@ -18,7 +18,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Política de Privacidade - Bóris",
-  description: "Política de Privacidade do Bóris - Como protegemos e utilizamos seus dados.",
+  description:
+    "Política de Privacidade do Bóris. Como protegemos seus dados WhatsApp, LGPD compliance e segurança garantida. Transparência total na gestão de informações.",
   robots: {
     index: true,
     follow: true,

@@ -18,7 +18,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Bóris White-Label para Agências – Seu branding, nossa IA",
-  description: "Entregue dashboards e resumos aos seus clientes com a sua marca.",
+  description:
+    "White-Label Bóris para agências. Dashboard personalizado, relatórios automáticos com sua marca. Monitore satisfação dos clientes. +150 agências usam!",
   keywords: "white label whatsapp, agência digital, dashboard personalizado, marca própria, automação agência",
   authors: [{ name: "Bóris", url: "https://euboris.com.br" }],
   creator: "Bóris",
@@ -29,7 +30,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Bóris White-Label para Agências – Seu branding, nossa IA",
-    description: "Entregue dashboards e resumos aos seus clientes com a sua marca.",
+    description:
+      "White-Label Bóris para agências. Dashboard personalizado, relatórios automáticos com sua marca. Monitore satisfação dos clientes. +150 agências usam!",
     url: "https://euboris.com.br/agencia",
     siteName: "Bóris",
     images: [
@@ -46,7 +48,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Bóris White-Label para Agências – Seu branding, nossa IA",
-    description: "Entregue dashboards e resumos aos seus clientes com a sua marca.",
+    description:
+      "White-Label Bóris para agências. Dashboard personalizado, relatórios automáticos com sua marca. Monitore satisfação dos clientes. +150 agências usam!",
     images: ["https://storage.euboris.com.br/site/meta_image_padrao.jpg"],
   },
   robots: {

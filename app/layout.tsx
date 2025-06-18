@@ -19,7 +19,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Bóris - Automação WhatsApp para Grupos | Resumos Automáticos e Dashboard",
   description:
-    "Automatize grupos WhatsApp com Bóris. Resumos diários, dashboard completo e insights acionáveis. Economize 37h/mês. Teste grátis 7 dias sem cartão.",
+    "Automatize grupos WhatsApp com IA. Resumos diários, dashboard completo e 37h economizadas/mês. Teste grátis 7 dias, sem cartão. +900 grupos já usam!",
   keywords:
     "automação whatsapp, resumo mensagens whatsapp, dashboard grupos whatsapp, insights comunidades online, gestão grupos whatsapp, bot whatsapp, automação comunidades",
   authors: [{ name: "Bóris", url: "https://euboris.com.br" }],

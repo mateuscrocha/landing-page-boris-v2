@@ -18,7 +18,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Bóris para Condomínios – Comunicação sem ruído no WhatsApp",
-  description: "Reduza conflitos e avise todos os moradores com resumos e métricas automáticas.",
+  description:
+    "Organize grupos de condomínio com Bóris. Resumos automáticos, menos conflitos e comunicação eficiente. Teste grátis 7 dias. +300 condomínios aprovam!",
   keywords: "condomínio whatsapp, comunicação condomínio, síndico whatsapp, gestão condomínio, avisos moradores",
   authors: [{ name: "Bóris", url: "https://euboris.com.br" }],
   creator: "Bóris",
