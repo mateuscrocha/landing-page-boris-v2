@@ -68,12 +68,7 @@ export function Header() {
           </nav>
 
           <div className="hidden md:flex items-center">
-            <a
-              href="https://wa.me/5561981569893?text=Ol%C3%A1!%20Quero%20come%C3%A7ar%20a%20usar%20o%20B%C3%B3ris%20gr%C3%A1tis."
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group"
-            >
+            <a href="https://typebot.euboris.com.br/quero" target="_blank" rel="noopener noreferrer" className="group">
               <Button className="bg-[#22C55E] hover:bg-[#16A34A] text-white font-poppins font-semibold border-0 transition-all duration-200 group-hover:scale-105">
                 Começar Grátis
               </Button>
@@ -122,11 +117,7 @@ export function Header() {
                 Contato
               </a>
               <div className="flex flex-col space-y-3 pt-4 border-t border-border">
-                <a
-                  href="https://wa.me/5561981569893?text=Ol%C3%A1!%20Quero%20come%C3%A7ar%20a%20usar%20o%20B%C3%B3ris%20gr%C3%A1tis."
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <a href="https://typebot.euboris.com.br/quero" target="_blank" rel="noopener noreferrer">
                   <Button className="bg-[#22C55E] hover:bg-[#16A34A] text-white font-poppins font-semibold border-0 w-full">
                     Começar Grátis
                   </Button>

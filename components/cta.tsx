@@ -15,7 +15,7 @@ export function CTA() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
           <a
-            href="https://wa.me/5561981569893?text=Ol%C3%A1!%20Quero%20come%C3%A7ar%20o%20teste%20gr%C3%A1tis%20do%20B%C3%B3ris%20agora."
+            href="https://typebot.euboris.com.br/quero"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto"

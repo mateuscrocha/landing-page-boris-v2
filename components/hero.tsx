@@ -37,7 +37,7 @@ export function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10 sm:mb-12 px-4">
             <a
-              href="https://wa.me/5561981569893?text=Ol%C3%A1!%20Quero%20testar%20o%20B%C3%B3ris%20gr%C3%A1tis%20por%207%20dias."
+              href="https://typebot.euboris.com.br/quero"
               target="_blank"
               rel="noopener noreferrer"
               className="group w-full sm:w-auto"

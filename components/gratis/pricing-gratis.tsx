@@ -15,7 +15,7 @@ const plan = {
     "Suporte via FAQ/comunidade",
   ],
   buttonText: "Adicionar grátis",
-  whatsappMessage: "Ol%C3%A1!%20Quero%20ativar%20o%20B%C3%B3ris%20no%20plano%20gratuito.",
+  whatsappMessage: "https://typebot.euboris.com.br/quero",
 }
 
 export function PricingGratis() {
@@ -48,11 +48,7 @@ export function PricingGratis() {
                   </li>
                 ))}
               </ul>
-              <a
-                href={`https://wa.me/5561981569893?text=${plan.whatsappMessage}`}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href={plan.whatsappMessage} target="_blank" rel="noopener noreferrer">
                 <Button
                   className="w-full font-poppins font-semibold bg-[#22C55E] hover:bg-[#16A34A] text-white border-0 text-lg py-4"
                   aria-label={plan.buttonText}

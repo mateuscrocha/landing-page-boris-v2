@@ -29,11 +29,7 @@ export function HeroGratis() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <a
-              href="https://wa.me/5561981569893?text=Ol%C3%A1!%20Quero%20ativar%20o%20B%C3%B3ris%20no%20plano%20gratuito."
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://typebot.euboris.com.br/quero" target="_blank" rel="noopener noreferrer">
               <Button
                 size="lg"
                 className="bg-[#22C55E] hover:bg-[#16A34A] text-white font-poppins font-semibold text-lg px-8 py-4 border-0"
