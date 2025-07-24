@@ -170,7 +170,7 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://encrypted-tbn0.gstatic.com" />
 
         {/* Plausible Analytics */}
-        <script defer data-domain="euboris.com.br" src="https://plausible.io/js/script.js" />
+        <script defer data-domain="plausible.euboris.com.br" src="https://boris-tools-plausible.valwa8.easypanel.host/js/script.js" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
